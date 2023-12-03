@@ -1,6 +1,6 @@
 ### Hola 👋, Mi nombre es Mario García Estevané
 #### Estudiante de Ing. Informática
-![Estudiante de Ing. Informática](https://scontent.fpbc5-1.fna.fbcdn.net/v/t39.30808-6/241546341_3085920835014688_4555929761115345155_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeHRKkARPdz9JfjvGuPgylorels27NB9Jyh6Wzbs0H0nKNPDNcBgYHjFYl3i0OLzHjI9Dju4ZzZYhigw6ZPywAMm&_nc_ohc=TmT-Yxf96hEAX8TwTzZ&_nc_ht=scontent.fpbc5-1.fna&oh=00_AfD51JLbEoavWucK-bSxBonEYeUm2W3F1juO4R9hj94AVQ&oe=65700CCB)
+![Estudiante de Ing. Informática[<img src="https://scontent.fpbc5-1.fna.fbcdn.net/v/t39.30808-6/241546341_3085920835014688_4555929761115345155_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeHRKkARPdz9JfjvGuPgylorels27NB9Jyh6Wzbs0H0nKNPDNcBgYHjFYl3i0OLzHjI9Dju4ZzZYhigw6ZPywAMm&_nc_ohc=TmT-Yxf96hEAX8TwTzZ&_nc_ht=scontent.fpbc5-1.fna&oh=00_AfD51JLbEoavWucK-bSxBonEYeUm2W3F1juO4R9hj94AVQ&oe=65700CCB" height='300px' widht="300px">]
 
 Soy una persona bastante dedicada a lo que hace, con objetivos claros, siempre he pensado que la única persona que puede ayudarte a cumplir tus sueños eres tu mismo
 
