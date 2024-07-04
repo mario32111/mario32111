@@ -4,8 +4,8 @@
 
 Soy una persona bastante dedicada a lo que hace, con objetivos claros, siempre he pensado que la única persona que puede ayudarte a cumplir tus sueños eres tú mismo.
 
-Habilidades: JS / HTML / CSS / PYTHON
+Habilidades: JS / HTML / CSS / PYTHON / PHP / SQL / C#/ C++, JAVA
 
-- 🌱 Estoy aprendiendo Desarrollo front end con React 
+- 🌱 Estoy aprendiendo desarrollo web Full Stack
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mario32111) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100007904052052) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mario_garcia3210/)
