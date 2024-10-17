@@ -4,7 +4,7 @@
 
 Soy una persona bastante dedicada a lo que hace, con objetivos claros, siempre he pensado que la única persona que puede ayudarte a cumplir tus sueños eres tú mismo.
 
-Habilidades: JS / HTML / CSS / PYTHON / PHP / SQL / C#/ C++, JAVA/ .NET/ REACT/ ANGULAR/ Bootstrap/ 
+Habilidades: JS / HTML / CSS / PYTHON / PHP / SQL / C#/ C++, JAVA/ .NET/ REACT/ REACT NATIVE/ ANGULAR/ Bootstrap/ 
 
 - Desarrollo WEB
 - Desarrollo movil
