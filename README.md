@@ -40,11 +40,27 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 <a href='https://www.instagram.com/mario_garcia3210/' target='_blank'>
   <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram'/>
 </a>
+<a href='https://www.linkedin.com/in/garc%C3%ADa-estevan%C3%A9-mario-alberto-5025b929b' target='_blank'>
+  <img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'/>
+</a>
 
 ---
 
 ## 🛠️ Proyectos Destacados:
-- [**Proyecto 1**](#) - Descripción breve del proyecto.
+## 🛠️ Proyectos Destacados:
+
+### [**MyEconomy**](https://github.com/mario32111/myeconomy)
+- **Descripción**: Aplicación financiera que ayuda a gestionar gastos, ingresos e inversiones con un asistente financiero basado en IA.
+- **Tecnologías**: React Native, Node.js, MongoDB, Express.
+- **Características clave**:
+  - Seguimiento de gastos e ingresos
+  - Asistente financiero con IA
+  - Simulador de inversiones
+- **Capturas de pantalla**:
+
+  ![MyEconomy Screenshot 1](https://enlace.com/screenshot1.png)
+  ![MyEconomy Screenshot 2](https://enlace.com/screenshot2.png)
+  
 - [**Proyecto 2**](#) - Descripción breve del proyecto.
 - [**Proyecto 3**](#) - Descripción breve del proyecto.
 
@@ -53,4 +69,4 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 ## 📧 Contacto:
 ¿Tienes alguna propuesta o simplemente quieres conectar? ¡Envíame un mensaje!
 
-- **Correo electrónico**: marioge44@gmail.com
+- **Correo electrónico**: mario.garcia@example.com
