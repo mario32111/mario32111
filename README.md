@@ -47,8 +47,6 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 ---
 
 ## 🛠️ Proyectos Destacados:
-## 🛠️ Proyectos Destacados:
-
 ### [**MyEconomy**](https://github.com/mario32111/myeconomy)
 - **Descripción**: Aplicación financiera que ayuda a gestionar gastos, ingresos e inversiones con un asistente financiero basado en IA.
 - **Tecnologías**: React Native, Node.js, MongoDB, Express.
@@ -57,8 +55,6 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
   - Asistente financiero con IA
   - Simulador de inversiones
 - **Capturas de pantalla**:
-
-## 🛠️ Proyectos Destacados:
 
 ### [**HackDgo 2024 - Proyecto Final**](https://github.com/mario32111/HackDgo2024-Final.git)
 - **Descripción**: Proyecto desarrollado durante el HackDgo 2024. Una solución innovadora para los errores de medicacion.
