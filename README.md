@@ -58,11 +58,19 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
   - Simulador de inversiones
 - **Capturas de pantalla**:
 
-  ![MyEconomy Screenshot 1](https://enlace.com/screenshot1.png)
-  ![MyEconomy Screenshot 2](https://enlace.com/screenshot2.png)
-  
-- [**Proyecto 2**](#) - Descripción breve del proyecto.
-- [**Proyecto 3**](#) - Descripción breve del proyecto.
+## 🛠️ Proyectos Destacados:
+
+### [**HackDgo 2024 - Proyecto Final**](https://github.com/mario32111/HackDgo2024-Final.git)
+- **Descripción**: Proyecto desarrollado durante el HackDgo 2024. Una solución innovadora para los errores de medicacion.
+- **Tecnologías**: React, Node.js, MySQL, Express.
+- **Características clave**:
+  - Característica 1 (Expedientes digitales)
+  - Característica 2 (Asistente con IA dedicado a detectar contraindicaciones farmacologicas)
+  - Característica 3 (Recetas en base a el criterio del medico, el expediente medigo y la IA)
+
+---
+
+[Volver a la página principal del GitHub](https://github.com/mario32111)
 
 ---
 
