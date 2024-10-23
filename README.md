@@ -9,10 +9,13 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 ## 🚀 Habilidades Técnicas:
 
 **Lenguajes de Programación:**
-- **JavaScript**, **Python**, **PHP**, **C#**, **C++**, **Java**, **SQL**
+- **JavaScript**, **Python**, **PHP**, **C#**, **C++**, **Java**, **SQL**, **TypeScript**
 
 **Frameworks y Librerías:**
 - **React**, **React Native**, **Angular**, **.NET**, **Bootstrap**
+
+**Otras herramientas:**
+- **Figma**, **Git y GitHub**, **Linux**
 
 **Áreas de experiencia:**
 - 💻 **Desarrollo Web**: Frontend & Backend
