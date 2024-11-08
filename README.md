@@ -12,7 +12,7 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 - **JavaScript**, **Python**, **PHP**, **C#**, **C++**, **Java**, **SQL**, **TypeScript**
 
 **Frameworks y Librerías:**
-- **React**, **React Native**, **Angular**, **.NET**, **Bootstrap**
+- **React**, **React Native**, **Angular**, **.NET**, **Bootstrap**, **Express**
 
 **Otras herramientas:**
 - **Figma**, **Git y GitHub**, **Linux**
@@ -21,6 +21,7 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 - 💻 **Desarrollo Web**: Frontend & Backend
 - 📱 **Desarrollo Móvil**: Aplicaciones nativas e híbridas
 - 🗄️ **Bases de Datos**: Diseño y administración
+- 🛢️ **Desarrollo de API-Rest**: Implementacion de CRUD, autenticaciones
 - 🎨 **Diseño Web**: UI/UX, responsive design
 
 ---
