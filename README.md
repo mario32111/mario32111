@@ -12,7 +12,7 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 - **JavaScript**, **Python**, **PHP**, **C#**, **C++**, **Java**, **SQL**, **TypeScript**, **Kotlin**, **R**, **Java**
 
 **Frameworks y Librerías:**
-- **React**, **React Native**, **Angular**, **.NET**, **Bootstrap**, **Express**, **Redux**, **Express**, **Tailwind CSS**
+- **React**, **React Native**, **Angular**, **.NET**, **Bootstrap**, **Express**, **Redux**, **Express**, **Tailwind CSS**, **Spring Boot**
 
 **Otras herramientas:**
 - **Figma**, **Git y GitHub**, **Linux**, **Google Cloud**, **Docker**, **Kubernetes**, **Postman**, **Android Studio**, **Visual Studio Code**, **Jupyter Notebook**, 
@@ -21,7 +21,7 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 - 💻 **Desarrollo Web**: Frontend & Backend
 - 📱 **Desarrollo Móvil**: Aplicaciones nativas e híbridas
 - 🗄️ **Bases de Datos**: Diseño y administración de BD en MySQL y PostgreSQL
-- 🛢️ **Desarrollo de API-Rest**: Implementacion de CRUD, autenticaciones, uso de middlewares y ORMs
+- 🛢️ **Desarrollo de API-Rest**: Implementacion de CRUD, autenticaciones, uso de middlewares y ORMs, uso de varias arquitecturas
 - 🎨 **Diseño Web**: UI/UX, responsive design
 - ☁️ **Computacion en la nube**: Experienxia con Google Cloud
 - 🤖 **Conocimientos basicos sobre IA y MC**: Experiecia desarollando algoritmos sencillos de aprendizaje automatico e inteligencia artificial
