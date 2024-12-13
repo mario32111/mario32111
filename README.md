@@ -9,13 +9,13 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 ## 🚀 Habilidades Técnicas:
 
 **Lenguajes de Programación:**
-- **JavaScript**, **Python**, **PHP**, **C#**, **C++**, **Java**, **SQL**, **TypeScript**
+- **JavaScript**, **Python**, **PHP**, **C#**, **C++**, **Java**, **SQL**, **TypeScript**, **Kotlin**
 
 **Frameworks y Librerías:**
-- **React**, **React Native**, **Angular**, **.NET**, **Bootstrap**, **Express**, **Redux**, **Express**, **Telwind CSS**
+- **React**, **React Native**, **Angular**, **.NET**, **Bootstrap**, **Express**, **Redux**, **Express**, **Tailwind CSS**
 
 **Otras herramientas:**
-- **Figma**, **Git y GitHub**, **Linux**, **Google Cloud**, **Docker**, **Kubernetes**
+- **Figma**, **Git y GitHub**, **Linux**, **Google Cloud**, **Docker**, **Kubernetes**, **Postman**, **Android Studio**
 
 **Áreas de experiencia:**
 - 💻 **Desarrollo Web**: Frontend & Backend
