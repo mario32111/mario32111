@@ -64,7 +64,7 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 ## 📈 Estadísticas de GitHub:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mario32111&show_icons=true&theme=radical" alt="Estadísticas de Mario García"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario32111&layout=compact&theme=radical&exclude_repo=PruebaAngular,HackDgo2024-Final,Curso-IA-SemanaAcademica" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mario32111&layout=compact&theme=radical&exclude_repo=PruebaAngular,HackDgo2024-Final,Curso-IA-SemanaAcademica,deep-learning" />
 </p>
 
 ---
