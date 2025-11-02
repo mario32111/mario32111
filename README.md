@@ -53,7 +53,7 @@ Soy un **Desarrollador Full Stack** apasionado por el desarrollo de software, ta
 - 🐄️ **Bases de Datos**: Diseño y administración de BD en MySQL y PostgreSQL
 - 📂 **Desarrollo de API-Rest**: Implementación de CRUD, autenticaciones, uso de middlewares y ORMs
 - 🎨 **Diseño Web**: UI/UX, responsive design
-- ☁️ **Computación en la nube**: Experiencia con Google Cloud
+- ☁️ **Computación en la nube**: Experiencia con Google Cloud y AWS
 - 🤖 **Conocimientos básicos sobre IA y MC**: Experiencia desarrollando algoritmos sencillos de aprendizaje automático e inteligencia artificial
 - 🔌 **IoT**: Desarrollo de dispositivos inteligentes
 - 🔄 **Análisis de datos**: Limpieza y visualización de datos
