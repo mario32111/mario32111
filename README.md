@@ -45,7 +45,7 @@ I'm an **AI & Backend Engineer** passionate about artificial intelligence, multi
 
 ## 🧠 Areas of Expertise
 
-- 🤖 **AI & Machine Learning:** Multi-agent systems, Retrieval-Augmented Generation (RAG), Autonomous Cognitive Agents, and Computer Vision (YOLOv8/v11).
+- 🤖 **AI & Machine Learning:** Multi-agent systems, Retrieval-Augmented Generation (RAG), Autonomous Cognitive Agents, and Computer Vision (YOLOv8/v11), DeepLearning and MachineLearning models.
 - ⚙️ **Backend Development:** Scalable architecture, REST APIs, Microservices, and database optimization.
 - 📱 **Mobile Development:** Cross-platform (Flutter) and Native Android (Kotlin).
 - 🔌 **IoT & Edge Computing:** Hardware integration, sensor telemetry, and deployment on Raspberry Pi and ESP32-S3.
